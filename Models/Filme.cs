@@ -4,6 +4,8 @@ namespace FilmesApi.Models
 {
     public class Filme
     {
+        public int Id { get; internal set; }
+
         [Required(ErrorMessage = "O preenchimento é obrigatório.")]
         [MaxLength(50, ErrorMessage = "O preenchimento é no máximo de 50 caracteres.")]
         public string Titulo { get; set; }

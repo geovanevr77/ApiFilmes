@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ntp4EOh5w/AFycMM5VZ/cWHHjFONKQIsCseCu2z60/RXvKdudSZwA/8H0bfeIYqimKSDiEadyzdShcdGoQmIhw==",
+  "dgSpecHash": "eQBfAv2Q+JLG3pj2gKWT/AYlYzL+scxnUQAgSd/x2c2adZ2uIprj1dHq3DKrA06+lSIKHVtDUuSP+Ao9V/RdcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gerlane\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Gerlane\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

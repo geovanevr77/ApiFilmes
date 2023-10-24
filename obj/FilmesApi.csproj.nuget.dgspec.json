@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj": {}
+    "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj": {
+    "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+        "projectUniqueName": "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
         "projectName": "FilmesApi",
-        "projectPath": "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+        "projectPath": "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
         "packagesPath": "C:\\Users\\Gerlane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerlane\\Documents\\Projetos Alura\\FilmesApi\\FilmesApi\\obj\\",
+        "outputPath": "C:\\Users\\Gerlane\\Desktop\\Projetos Alura\\FilmesApi\\FilmesApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
